@@ -44,7 +44,5 @@ export default {
 </script>
 
 <style scoped>
-  p {
-    color: #FF0000;
-  }
+  
 </style>
